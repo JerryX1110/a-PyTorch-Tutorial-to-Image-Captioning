@@ -192,6 +192,10 @@ I'm using the MSCOCO '14 Dataset. You'd need to download the [Training (13GB)](h
 
 We will use [Andrej Karpathy's training, validation, and test splits](http://cs.stanford.edu/people/karpathy/deepimagesent/caption_datasets.zip). This zip file contain the captions. You will also find splits and captions for the Flicker8k and Flicker30k datasets, so feel free to use these instead of MSCOCO if the latter is too large for your computer.
 
+**Faster way to download COCO14 [20200628]**
+[Training (13GB)](https://pjreddie.com/media/files/train2014.zip)
+[Validation (6GB)](https://pjreddie.com/media/files/val2014.zip)
+
 ### Inputs to model
 
 We will need three inputs.
